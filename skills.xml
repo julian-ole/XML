@@ -8,7 +8,7 @@
         <td4>Decision Table based testing</td4>
         <td5>State Transition</td5>
     </skill1>
-	<skill2 name = 'Test documentation'>
+	<skill2 name='Test documentation'>
         <tdoc0>test plan</tdoc0>
 	    <tdoc1>test scenario</tdoc1>
 	    <tdoc2>test cases</tdoc2>
@@ -16,7 +16,7 @@
 	    <tdoc4>test list</tdoc4>
 	    <tdoc5>bug reports</tdoc5>
     </skill2>
-	<skill3 name = 'Kinds of testing'>
+	<skill3 name='Kinds of testing'>
         <tot0>Accessibility testing</tot0>
 	    <tot1>Acceptance testing</tot1>
 	    <tot2>Black box testing</tot2>
