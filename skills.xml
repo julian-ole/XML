@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <skills>
 	<skill0>Knowledge of SDLC and of the role of testing in it</skill0>
-	<skill1 name = 'Test Design'>
+	<skill1 name='Test Design'>
         <td1>Equivalent class partitioning</td1>
         <td2>Boundary value analysis</td2>
         <td3>Pairwise testing</td3>
