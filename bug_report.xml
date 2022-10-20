@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+	<atr0 name="Title" type="xs:string"> </atr0>
+	<atr1 name="Environment"  type="xs:string"></atr1>
+	<atr2 name="ID" type="xs:number"></atr2>
+	<atr3 name="Applause Status" type="xs:string"></atr3>
+	<atr4 name="Creation date" type="xs:date"></atr4>
+	<atr5 name="Bug Type" type="xs:string"></atr5>
+	<atr6 name="Frequency" type="xs:string"></atr6>
+	<atr7 name="Severity" type="xs:string"></atr7>
+	<atr8 name="Action Performed" type="xs:string"></atr8>
+	<atr9 name="Expected Result" type="xs:string"></atr9>
+	<atr10 name="Actual Result" type="xs:string"></atr10>
+	<atr11 name="Attachments" type="xs:string"></atr11>
+</bug_report>
