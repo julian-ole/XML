@@ -1,7 +1,7 @@
-
-<cinema = "The time">,
-    <serial = "Breaking bad">,
-    <food = "steak salad">,
-    <season = "spring">,
-    <CountryToVisit = "Mexico"> ;
-    
+<my_preferences>
+    <cinema> The time </cinema>
+    <serial> Breaking bad </serial>
+    <food> steak salad </food>
+    <season> spring </season>
+    <CountryToVisit> Mexico </CountryToVisit>
+ </my_preferences>

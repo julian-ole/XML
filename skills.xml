@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+	<skill0>Knowledge of SDLC and of the role of testing in it</skill0>
+	<skill1 name = 'Test Design'>
+        <td1>Equivalent class partitioning</td1>
+        <td2>Boundary value analysis</td2>
+        <td3>Pairwise testing</td3>
+        <td4>Decision Table based testing</td4>
+        <td5>State Transition</td5>
+    </skill1>
+	<skill2 name = 'Test documentation'>
+        <tdoc0>test plan</tdoc0>
+	    <tdoc1>test scenario</tdoc1>
+	    <tdoc2>test cases</tdoc2>
+	    <tdoc3>test suit</tdoc3>
+	    <tdoc4>test list</tdoc4>
+	    <tdoc5>bug reports</tdoc5>
+    </skill2>
+	<skill3 name = 'Kinds of testing'>
+        <tot0>Accessibility testing</tot0>
+	    <tot1>Acceptance testing</tot1>
+	    <tot2>Black box testing</tot2>
+	    <tot3>End to end testing</tot3>
+	    <tot4>Functional testing</tot4>
+	    <tot5>Interactive testing</tot5>
+	    <tot6>Integration testing</tot6>
+    </skill3>
+	<skill4>Jira</skill4>
+	<skill5>MySQL </skill5>
+	<skill6>HTML</skill6>
+	<skill7>CSS</skill7>
+	<skill8>JavaScript</skill8>
+	<skill9>Postman</skill9>
+	<skill10>Agile philosophy </skill10>
+	<skill11>Scrum </skill11>
+	<skill12>Kanban</skill12>
+	<skill13>Team Player</skill13>
+	<skill14>English language</skill14>
+</skills>
