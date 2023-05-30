@@ -25,15 +25,16 @@
 	    <tot5>Interactive testing</tot5>
 	    <tot6>Integration testing</tot6>
     </skill3>
-	<skill4>Jira</skill4>
-	<skill5>MySQL </skill5>
-	<skill6>HTML</skill6>
-	<skill7>CSS</skill7>
-	<skill8>JavaScript</skill8>
-	<skill9>Postman</skill9>
-	<skill10>Agile philosophy </skill10>
-	<skill11>Scrum </skill11>
-	<skill12>Kanban</skill12>
-	<skill13>Team Player</skill13>
-	<skill14>English language</skill14>
+	<skill4>JavaScript</skill4>
+	<skill5>HTML</skill5>
+	<skill6>CSS</skill6>
+	<skill7>MySQL </skill7>
+	<skill8>Postman</skill8>
+	<skill9>Jira</skill9>
+	<skill10>Cypress<skill10>
+	<skill11>Agile philosophy </skill11>
+	<skill12>Scrum </skill12>
+	<skill13>Kanban</skill13>
+	<skill14>Team Player</skill14>
+	<skill15>English language</skill15>
 </skills>
